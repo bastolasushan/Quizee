@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Quizee</string>
+
+
+    <string name="trueans">True answer!</string>
+    <string name="wrongans">Wrong answer!</string>
+
+
+
+    <string name="question1">Electrons are larger than molecules.</string>
+    <string name="question2">The Atlantic Ocean is the biggest ocean on Earth.</string>
+    <string name="question3">The chemical make up food often changes when you cook it.</string>
+    <string name="question4">Sharks are mammals.</string>
+    <string name="question5">The human body has four lungs.</string>
+    <string name="question6">Atoms are most stable when their outer shells are full.</string>
+    <string name="question7">Filtration separates mixtures based upon their particle size.</string>
+    <string name="question8">Venus is the closest planet to the Sun.</string>
+    <string name="question9">Conductors have low resistance.</string>
+    <string name="question10">Molecules can have atoms from more than one chemical element.</string>
+    <string name="question11">Water is an example of a chemical element.</string>
+    <string name="question12">The study of plants is known as botany.</string>
+    <string name="question13">Mount Kilimanjaro is the tallest mountain in the world.</string>
+    <string name="question14">Floatation separates mixtures based on density.</string>
+    <string name="question15">Herbivores eat meat.</string>
+    <string name="question16">Atomic bombs work by atomic fission.</string>
+    <string name="question17">Molecules are chemically bonded.</string>
+    <string name="question18">Spiders have six legs.</string>
+    <string name="question19">Kelvin is a measure of temperature.</string>
+    <string name="question20">The human skeleton is made up of less than 100 bones.</string>
+
+
+</resources>
